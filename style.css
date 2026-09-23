@@ -94,14 +94,14 @@ button {
 
 button:hover {
     transform: translateY(-3px);
-    background: #b8c0d4;
+    background: #ffffff;
 }
 
 footer {
     text-align: center;
     padding: 30px;
     border-top: 1px solid #252b3a;
-    color: #8d96aa;
+    color:  #000000;
 }
 
 @media (max-width: 600px) {
